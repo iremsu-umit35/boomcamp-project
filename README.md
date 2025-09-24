@@ -18,7 +18,7 @@ Kısa açıklama: Bu proje [Dogs vs Cats] veri seti kullanılarak CNN ile görü
 - Eğitim/Doğrulama doğrulukları, kısa yorum
 
 ## Çalıştırma
-- Kaggle notebook linki: *(buraya Kaggle notebook linki gelecek)*
+- Kaggle notebook linki: https://www.kaggle.com/code/remsumt/notebook5785386ede
 
 ## Dosyalar
 - notebook.ipynb
